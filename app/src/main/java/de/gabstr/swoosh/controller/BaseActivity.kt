@@ -1,4 +1,4 @@
-package de.gabstr.swoosh
+package de.gabstr.swoosh.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
